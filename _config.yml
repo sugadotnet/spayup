@@ -17,18 +17,18 @@ markdown    : kramdown
 highlighter : pygments
 
 # SEO settings
-title: ActUp
+title: SpayUp
 description: "Apps for Corrective and Preventive Action"
-keywords: "actup, corrective, preventive, action, cpa, free, app, download"
+keywords: "spayup, corrective, preventive, action, cpa, free, app, download"
 
 # Site settings
 url: http://arinsuga.com
-baseurl: "/actup"
+baseurl: "/spayup"
 
 # Download settings
 download:
-  source  : https://github.com/sugadotnet/actup/archive/master.zip
-  release : https://github.com/sugadotnet/actup
+  source  : https://github.com/sugadotnet/spayup/archive/master.zip
+  release : https://github.com/sugadotnet/spayup
 
 # Author settings
 author:
@@ -42,7 +42,7 @@ author:
   linkedin  : https://www.linkedin.com/in/arin-suga-941076a5/
 
 # google_analytics: UA-52446115-1
-repo: https://github.com/sugadotnet/actup
+repo: https://github.com/sugadotnet/spayup
 
 # comments
 disqus_shortname: "arinsuga"
